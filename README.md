@@ -15,4 +15,4 @@ Develop With
 ![preview](https://media.discordapp.net/attachments/894762208121192529/1000690991637987438/unknown.png?width=665&height=527)
 
 <hr>
-nothing
+It hasn't tested much yet. So there's definitely a bug. Good luck!
